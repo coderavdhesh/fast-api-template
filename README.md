@@ -17,6 +17,8 @@ It can be used to set up a number of commit quality checks -
 ranging from formatting, linking, code validity,
 to the messages of those commits.
 
+copy the code for more understanding in your local first.
+
 ### [black][BlackLink]
 
 This is an uncompromising python file formatter, which in my opinion is better,
