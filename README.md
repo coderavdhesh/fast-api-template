@@ -19,6 +19,8 @@ to the messages of those commits.
 
 copy the code for more understanding in your local first.
 
+coding is fun:D
+
 ### [black][BlackLink]
 
 This is an uncompromising python file formatter, which in my opinion is better,
