@@ -18,6 +18,7 @@ ranging from formatting, linking, code validity,
 to the messages of those commits.
 
 copy the code for more understanding in your local first.
+fine, go ahead.
 
 ### [black][BlackLink]
 
